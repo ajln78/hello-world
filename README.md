@@ -1,4 +1,8 @@
-# hello-world
-embedded system homework assignment
+#include <stdio.h>
+int main() {
 
-This is the first assignment for the embedded systems class
+  printf("Hello World\n")
+  printf("This is to test github")
+  return 0;
+
+}
